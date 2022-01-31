@@ -6,6 +6,7 @@
   justify-content: center;
   align-items: center;
   background: #f4f4f4;
+  font-family: Arial, Helvetica, sans-serif;
 }
 /* Inicio Body */
 
@@ -70,6 +71,7 @@ li a:hover {
   font-family: 'Elsie', cursive;
   text-shadow: 0px 1px 3px rgba(0, 0, 0, .6);
   font-size: 50px;
+  font-family: Georgia, "Times New Roman", Times, serif;
 }
 
 .mf {
@@ -97,12 +99,6 @@ li a:hover {
 
 /* Final tag main */
 
-.line {
-  background: #df5400;
-  border: 1px;
-  height: 2px;
-}
-
 #aspas  {
   width: 70px;
   height: 70px;
@@ -115,6 +111,7 @@ li a:hover {
   color: rgba(0, 0, 0, 0.5);
   font-family: Arial, Helvetica, sans-serif, Times, serif, serif;
   text-align: justify;
+  font-family: Georgia, "Times New Roman", Times, serif;
 }
 
 .cite {
