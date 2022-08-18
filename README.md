@@ -2,10 +2,10 @@
 
 <h3>&nbsp;<img width="32px" src="https://user-images.githubusercontent.com/62439381/159175059-0ea4a795-21f9-43f4-a9db-afc3a21ab780.gif">&nbsp;Clique aqui:</h3>
 
-**<h3>➡️&nbsp;https://cvrocha.github.io/First-Bikcraft/ ⬅️&nbsp;</h3>**
+**<h3>➡️&nbsp;https://cvrocha.github.io/Project-Udemy/ ⬅️&nbsp;</h3>**
 
 #
-![cvrocha github io_First-Bikcraft_](https://user-images.githubusercontent.com/62439381/185506504-7f681673-e393-4080-a19f-0ebbe8f96514.png)
+![cvrocha github io_Project-Udemy_](https://user-images.githubusercontent.com/62439381/185506833-05e13f47-4525-4fef-92f3-66d3949ff47b.png)
 
 ## Sobre 📝
 Um Site criado a partir de um projeto feito na Udemy
